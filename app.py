@@ -4,7 +4,14 @@ import json
 import pyperclip
 
 # Backend API URL
-BASE_URL = "http://127.0.0.1:8001"
+import os
+
+# Check if running on Hugging Face
+if "HF_SPACE" in os.environ:
+    BASE_URL = "https://huggingface.co/spaces/mlai23/Companies_Sentiment_Analysis"  # Replace with your actual URL
+else:
+    BASE_URL = "http://127.0.0.1:8001/api"  # Local testing
+
 
 # Companies List
 COMPANIES = ["Google", "Amazon", "Tesla", "Apple", "Microsoft"]
