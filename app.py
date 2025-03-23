@@ -7,7 +7,7 @@ import pyperclip
 import os
 import requests
 
-BASE_URL = "https://huggingface.co/spaces/mlai23/Companies_Sentiment_Analysis"  # Replace with your actual URL
+BASE_URL = "https://mlai23-Companies_Sentiment_Analysis.hf.space"  # Replace with your actual URL
 
 
 
