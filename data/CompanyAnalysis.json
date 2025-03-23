@@ -1,0 +1,307 @@
+{
+    "Microsoft": {
+        "Company": "Microsoft",
+        "Articles": [
+            {
+                "Title": "Bill Gates responds to Microsoft CEO Satya Nadella\u2019s post, makes a 'Crennis' request to Roger Federer",
+                "Summary": "Bill Gates and Sachin Tendulkar played a hybrid sport, Crennis, blending cricket and tennis. Gates invited Satya Nadella and Roger Federer to join the ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Anduril Teams with Microsoft to Advance IVAS Program for U.S. Army",
+                "Summary": "Anduril and Microsoft partner to advance the IVAS program, delivering next-gen AR/VR and AI capabilities to the US Army, enhancing battlefield awareness and mission command.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "Microsoft\u2019s Billionaire Founder Bill Gates Says THIS Is What Makes India So Special - EXCLUSIVE",
+                "Summary": "In an exclusive interview with Times Now, Microsoft founder Bill Gates expressed admiration for India's talent, innovation, and rapid growth. He praised India's contributions to Microsoft, ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "How to Move from Skype to Microsoft Teams",
+                "Summary": "Microsoft announced the retirement of Skype on May 5, 2025, a choice that signals the ascendance of Microsoft Teams. This transition, which will affect those us ...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "World News Live Today March 23, 2025: This company got most H-1B visas approved in 2024. It's not Infosys, TCS or Microsoft",
+                "Summary": "Stay connected with the latest updates on international politics, economic changes, conflicts, environmental issues, and more. Our live blog provides continuous coverage of breaking news, in-depth ...",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "Microsoft president: Proposed Washington state business taxes would weaken tech sector",
+                "Summary": "Microsoft President Brad Smith (left) interviewed by GeekWire co-founder Todd Bishop at GeekWire's Microsoft@50 event at Town Hall in Seattle on Thursday.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "Microsoft Windows And Office Users Issued Major Security Warning By Indian Govt: Here Are The Details",
+                "Summary": "Microsoft Office, Windows and other business customers are at the risk of hacking owing to multiple vulnerabilities that may have been exploited in the wild.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "The man behind Microsoft\u2019s decadeslong quest to build a quantum computer",
+                "Summary": "A Microsoft executive made a compelling pitch to mountaineer and physics professor Chetan Nayak in 2000: Join the Redmond, Wash., company and together they would scale nearby Mount Rainier\u2014and build a ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Microsoft CEO Satya Nadella Announces Major Leadership Reshuffle, Read His Letter To The Employees",
+                "Summary": "This leadership change comes about as Microsoft offloads about 2,000 employees who were considered to be low-performers in January and February of this year. , Companies News - Times Now ...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "Microsoft replaces its chief people officer to rethink performance reviews: Report",
+                "Summary": "Kathleen Hogan will be replaced by Amy Coleman, a Microsoft HR executive who had worked in the company for 25 years.",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "Sentiment Distribution": {
+            "Positive": 3,
+            "Negative": 3,
+            "Neutral": 4
+        },
+        "Final Sentiment Analysis": "Overall, the company's recent news coverage is mostly neutral, with mixed viewpoints."
+    },
+    "Tesla": {
+        "Company": "Tesla",
+        "Articles": [
+            {
+                "Title": "'Tesla growth isn't slowing down': Startup founder says Tesla's service centers 'barely keeping up' with demand",
+                "Summary": "Tesla is experiencing high demand and its service centers are struggling to keep up. Despite protests and a reported decline in global sales, especially in Europe, Tesla continues to lead the U.S. EV ...",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "Tesla investor who called for Elon Musk's exit says Board should not have allowed him to purchase Twitter",
+                "Summary": "Tesla shareholders don't have the power to directly vote to remove the CEO. But they could influence the Board if they believe Musk's leadership endangers their investment. The call for Elon Musk to ...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "Tesla Launch: Can Elon Musk's EV Giant Win Over Cost-Conscious Indian Consumer?",
+                "Summary": "As we move closer to Tesla's India launch in Mumbai, automobile experts and market pundits are divided over the influence the Elon Musk-led premium EV (electric vehicle) company will have on India's ...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "What is Dogequest, and why are Tesla owners doxxed in an online campaign against Elon Musk?",
+                "Summary": "DOGE protests against Elon Musk continue, a website called \u2018Dogequest\u2019 is publishing personal details of Tesla owners in the U.S. unless they sell their vehicles.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "What does Tesla entry mean for India's automotive industry? Nitin Gadkari answers",
+                "Summary": "Elon Musk-owned Tesla is all set to open its first showroom in Mumbai, having already signed a lease deal. The lease is reportedly for five years, starting on February 16, 2025.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "I can\u2019t walk past the TV without seeing a Tesla on fire, but my advice is ..., says Elon Musk at Tesla's surprise All-Hands Meeting",
+                "Summary": "Elon Musk addressed Tesla employees in a meeting commending their efforts, highlighting achievements like the rollout of over 7 million vehicles world ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Minnesota Guv Tim Walz clarifies Tesla stock remarks, takes fresh swipe at Elon Musk",
+                "Summary": "Walz's clarification follows backlash over his earlier remarks at an event in Wisconsin, where he mocked Tesla\u2019s declining stock price, which has fallen 41.4 percent year-to-date as of March.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "What is Dogequest, the website doxxing Tesla owners across the US?",
+                "Summary": "Dogequest, an anonymous website, has published personal details of Tesla owners across the US, including names, addresses and phone numbers, displayed on an interactive map. The site, which surfaced ...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "Why Tesla recalled nearly all Cybertrucks in US, in the latest of the model\u2019s many woes",
+                "Summary": "This is the eighth recall of Cyberstrucks in the brief span they have been on the roads. It\u2019s not great news for a company struggling to regain its lead as the world\u2019s top EV seller.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "WATCH: Anti-Elon Musk protesters rally outside tesla dealership in Washington",
+                "Summary": "The demonstration was in response to Musk\u2019s role in leading efforts to reduce the federal workforce. Musk leads the Department of Government Efficiency (DOGE), which has cut over 100,000 jobs from a ...",
+                "Sentiment": "Positive"
+            }
+        ],
+        "Sentiment Distribution": {
+            "Positive": 2,
+            "Negative": 4,
+            "Neutral": 4
+        },
+        "Final Sentiment Analysis": "Overall, the company's recent news coverage is mostly negative, signaling potential concerns."
+    },
+    "Apple": {
+        "Company": "Apple",
+        "Articles": [
+            {
+                "Title": "Apple shakes up top leadership over delay of AI-personalised Siri: Report",
+                "Summary": "Apple CEO Tim Cook has tapped its Vision Pro head to replace John Giannandrea, who headed up the Siri team so far.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Here\u2019s how much a rare Apple-1 computer sold for at an auction",
+                "Summary": "As per the report, the Apple-1 computer sold at the auction was rated an \u201cexceptional\u201d 8.0 out of 10 due to its \u201coutstanding cosmetic preservation\u201d and the \u201cdistinctly bright labeling on its ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "iPhone 18 Pro models expected to get Apple\u2019s second generation 5G modem: Report",
+                "Summary": "The latest iPhone 16e is the first smartphone from Apple to feature an in-house cellular C1 modem. However, according to a new report, the company will pack the upcoming C2 modem with mmWave bandwidth ...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "Apple\u2019s first foldable iPhone may feature ultra-thin design and liquid metal hinges",
+                "Summary": "While Apple's foldable iPhone is still in development, these leaks give us a glimpse of an exciting future where foldable technology meets Apple's signature innovation.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Apple iPhone 17 Pro leaks: Price, specifications, design and more",
+                "Summary": "The iPhone 17 Pro is expected to launch in September 2025 with a revamped design, upgraded camera, and a powerful A19 Pro chipset.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Apple iPhone 16 price drops by Rs 12,530: How to get this deal",
+                "Summary": "Croma is offering a massive discount on the iPhone 16, with price cuts and bank offers reducing its cost by Rs 12,530. Check out the iPhone 16 price deal below.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "Apple Hiring In India For Key Roles As It Looks To Manufacture Airpods",
+                "Summary": "Apple\u2019s key supplier, Hon Hai Precision (Foxconn), is aggressively accelerating its shift of iPhone supply chains to India. According to a recent JP Morgan report, Foxconn\u2019s manufacturing capacity in ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Apple may soon see an executive-level reshuffle and the reason is Siri",
+                "Summary": "Apple may undergo an executive reshuffle due to delays in Siri\u2019s personalized features. Vision Pro's Mike Rockwell is expected to lead the Siri team, ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Apple shakes up AI executive ranks in bid to turn around Siri: Report",
+                "Summary": "Mike Rockwell, vice president in charge of the Vision Products Group, will now be in charge of the iPhone maker's Siri virtual assistant ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Ben Stiller asks Tim Cook \u2018Severance Season 3 fan question\u2019, Apple CEO responds",
+                "Summary": "Ben Stiller has confirmed the renewal of the hit series Severance for a third season on Apple TV+, following a teaser release and a playful exchange w ...",
+                "Sentiment": "Positive"
+            }
+        ],
+        "Sentiment Distribution": {
+            "Positive": 8,
+            "Negative": 1,
+            "Neutral": 1
+        },
+        "Final Sentiment Analysis": "Overall, the company's recent news coverage is mostly positive, indicating a strong outlook."
+    },
+    "Google": {
+        "Company": "Google",
+        "Articles": [
+            {
+                "Title": "Google admits it accidentally deleted Maps timeline: Here\u2019s how you can restore the deleted data",
+                "Summary": "Google experienced a technical issue that led to the deletion of Maps Timeline data for some users earlier this month. The company has provided guidan ...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "Google techie lists 6 lessons from 6 months on the job. Internet says they're worth it",
+                "Summary": "In a now-viral post on LinkedIn, an Indian-origin techie working at Google in New York shared six things she learnt in six months from the job.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Mother Suing Google & Character AI Shocked To Find AI Chatbots Of Her Late Son On Platform",
+                "Summary": "Megan Garcia discovered several chatbots on Character AI's platform modelled over her deceased son who allegedly took his life after developing an emotional attachment to an AI chatbot., Technology & ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Google says it accidentally deleted Maps Timeline for some users: Here\u2019s how to get it back",
+                "Summary": "Now, tap on your profile picture from the top right corner and click on the option named \u2018Your Timeline\u2019. On the screen that appears, tap on the cloud icon that appears on the top of the screen and ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Google removes 300 application from Play Store for stealing user data: Check if you installed them",
+                "Summary": "The malicious apps could be a health apps, tracking apps, QR scanners and wallpaper apps- and could hide on their smartphone, change their names and run in the background without user interaction.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "Comparing Google Pixel 9a and Pixel 8a: what are the upgrades?",
+                "Summary": "Google recently launched the Pixel 9a smartphone in India at a starting price of Rs 49,999. It succeeds last year's Pixel 8a smartphone. Here's how they compare.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Google introduces AI-powered \u2018smart search\u2019 feature in Gmail: Here\u2019s how it works",
+                "Summary": "Google is rolling out a smarter AI-powered search feature in Gmail to help users find the most relevant emails quickly. This new search tool is currently rolling out for personal Google accounts and ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "How Nvidia CEO Jensen Huang\u2019s joke about Blackwell GPUs may actually \u2018hurt\u2019 Amazon, Google and Meta",
+                "Summary": "Nvidia\u2019s new Blackwell chips replace the earlier Hopper version, causing major cloud companies like Amazon, Microsoft, Google, and Meta to depreciate their older GPUs faster. This accelerated ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "AI tool of the week | How product marketers can web scrape using Google Gemini",
+                "Summary": "Using Google Gemini, product marketers can extract structured data from any webpage\u2014including dynamic content like scrolling reviews\u2014without writing a single line of code.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "How Google Pixel 9a compares with Apple iPhone 16e",
+                "Summary": "Within weeks of Apple launching its budget smartphone, the iPhone 16e, Google unveiled its new \u2018affordable\u2019 handset, the Pixel 9a.",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "Sentiment Distribution": {
+            "Positive": 7,
+            "Negative": 1,
+            "Neutral": 2
+        },
+        "Final Sentiment Analysis": "Overall, the company's recent news coverage is mostly positive, indicating a strong outlook."
+    },
+    "Amazon": {
+        "Company": "Amazon",
+        "Articles": [
+            {
+                "Title": "Amazon has introduced non-refundable processing fee on bank discounts \u2013 Know all about it",
+                "Summary": "Amazon has introduced a Rs 49 processing fee for customers availing Instant Bank Discounts (IBD) of Rs 500 or more, effectively reducing the net savings from these offers. The fee, implemented on ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Amazon Summer Appliances Fest: Grab up to 82% off on fans, coolers, blenders, ice cream makers and water purifiers",
+                "Summary": "Appliances Fest offers top discounts on coolers, fans, inverters, purifiers and other summer appliances. Stay cool and upgrade affordably!",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Samsung Galaxy S24 Ultra price drop: Get over Rs 33,500 discount on Amazon, here\u2019s how",
+                "Summary": "The Samsung Galaxy S24 Ultra is now available at a massive discount on Amazon, with price cuts and bank offers bringing it under Rs 96,318.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "Amazon India Will Charge Non-Refundable Rs 49 For Availing Rs 500 Bank Discount (Including Prime Members)",
+                "Summary": "Amazon has implemented a Rs 49 processing fee for customers using Instant Bank Discounts (IBD) of Rs 500 or more. Effective from Friday, this fee applies to all users, including Prime members, and ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Amazon to charge Rs 49 non-fundable fee on customers using bank discounts of Rs 500 or more",
+                "Summary": "The fee will reduce the discounts that customers receive through banking partnerships. It came into effect on Friday and applies to all customers, including Prime members.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Title": "Amazon manager layoffs: Did CEO Andy Jassy hint at mass firings last year? What we know",
+                "Summary": "Amazon Inc. is reportedly planning to cut 14,000 managerial positions by early 2025 in a major cost-cutting move ...",
+                "Sentiment": "Negative"
+            },
+            {
+                "Title": "Elon Musk names Amazon founder Jeff Bezos and these founders from Google and Oracle among the smartest people he knows",
+                "Summary": "Elon Musk praised several tech leaders including Larry Ellison, Larry Page, and Jeff Bezos for their intelligence and achievements. Despite Musk and B ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Home decor sale: Amazon Prime Shopping Days brings a minimum of 50% off",
+                "Summary": "Amazon Prime Shopping Days offers a minimum of 50% off on home d\u00e9cor essentials. Refresh your space with cushions, wall art, and more with the home decor sale.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Amazon is now charging Rs 49 as a processing fee: What it is and how it works",
+                "Summary": "Amazon has introduced a Rs 49 processing fee for purchases where you use an Instant Bank Discount (IBD) of Rs 500 or more. This means that while you\u2019re still saving money, you\u2019ll need to factor in ...",
+                "Sentiment": "Positive"
+            },
+            {
+                "Title": "Amazon, Flipkart found to have violated quality control rules during warehouse raids",
+                "Summary": "Raids on warehouses operated by both firms, conducted on Wednesday by the Bureau of Indian Standards in the Tiruvallur district of the southern Indian state of Tamil Nadu, found that the firms had ...",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "Sentiment Distribution": {
+            "Positive": 6,
+            "Negative": 2,
+            "Neutral": 2
+        },
+        "Final Sentiment Analysis": "Overall, the company's recent news coverage is mostly positive, indicating a strong outlook."
+    }
+}

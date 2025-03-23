@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+fastapi
+uvicorn
+nltk
+gtts
+lxml
+streamlit
+pyperclip
