@@ -5,11 +5,10 @@ import pyperclip
 
 # Backend API URL
 import os
-
-# Check if running on Hugging Face
+import requests
 
 BASE_URL = "https://huggingface.co/spaces/mlai23/Companies_Sentiment_Analysis"  # Replace with your actual URL
-
+response = requests.get(f"{BASE_URL}/get_sentiment/{selected_company}")
 
 
 # Companies List
